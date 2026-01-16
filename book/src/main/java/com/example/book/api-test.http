@@ -1,0 +1,32 @@
+
+# POST http://localhost:9090/api/books
+# Content-Type: application/json
+
+# {
+#    "title":"test122",
+#    "author":"kingsley",
+#    "isbn":"1234559",
+#    "publishedDate":"2026-01-12"
+# }
+
+
+
+# PUT http://localhost:9090/api/books/3
+# Content-Type: application/json
+
+# {
+#    "title":"test7",
+#    "author":"faith",
+#    "isbn":"1234321",
+#    "publishedDate":"2026-01-08"
+# }
+
+
+
+# GET http://localhost:9090/api/books
+
+
+# GET http://localhost:9090/api/books/search?title=test1
+
+
+# DELETE  http://localhost:9090/api/books/2
