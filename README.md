@@ -1,16 +1,15 @@
 # Library-Management-System-Backend
 Backend api service for the library management system
-Project Name
 
 A brief description of your Spring Boot project. Explain what the project does and its main features.
 
-Table of Contents
+## **Table of Contents**
 
 Features
 
 Technologies
 
-Getting Started
+## **Getting Started**
 
 Running the Application
 
@@ -38,7 +37,7 @@ Maven
 
 Any other dependencies your project uses (e.g., Spring Data JPA, Spring Security, etc.)
 
-Getting Started
+## **Getting Started**
 
 Follow these instructions to get a copy of the project running on your local machine.
 
@@ -50,20 +49,19 @@ Maven 3.x
 
 Git
 
-Installation
+## **Installation**
 
 Clone the repository:
 
 git clone https://github.com/kingsoo123/Library-Management-System-Backend.git
 cd book
 
-Build the project:
+## **Build the project:**
 
 mvn clean install
 
 
-Running the Application
-
+## **Running the Application**
 To start the Spring Boot application, run the following command in the project directory:
 
 mvn spring-boot:run
