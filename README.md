@@ -70,3 +70,9 @@ mvn spring-boot:run
 After running the command, the application should start, and you can access it at:
 
 http://localhost:9090/h2-console/login.do?jsessionid=fbe2d6cb8940e1e03d4d047827694daf
+
+## **Api routes**
+
+Use postman link to access all endpoint routes
+
+https://documenter.getpostman.com/view/7106037/2sBXVhCAWc
